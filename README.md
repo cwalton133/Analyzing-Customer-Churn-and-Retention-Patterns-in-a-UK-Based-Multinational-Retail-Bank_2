@@ -1,11 +1,12 @@
 # 📊 Analyzing Customer Churn and Retention Patterns in a UK Based Multinational Retail Bank  
 ### Data-Driven Customer Segmentation & Churn Intelligence for Strategic Decision-Making
 
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/churn-analysis)
-![License](https://img.shields.io/github/license/yourusername/churn-analysis)
-![Top Language](https://img.shields.io/github/languages/top/yourusername/churn-analysis)
-![SQL Pipeline](https://img.shields.io/badge/SQL%20Pipeline-Included-success?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Repo Size](https://img.shields.io/badge/Repo%20Size-Auto-informational?style=for-the-badge\&logo=github)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge\&logo=opensourceinitiative)
+![Top Language](https://img.shields.io/badge/Top%20Language-SQL-blue?style=for-the-badge\&logo=postgresql)
+![SQL Pipeline](https://img.shields.io/badge/SQL%20Pipeline-Included-success?style=for-the-badge\&logo=mysql)
+![Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
+
 
 
 ---

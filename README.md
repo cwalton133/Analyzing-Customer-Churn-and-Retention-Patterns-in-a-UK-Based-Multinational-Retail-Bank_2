@@ -8,15 +8,6 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
 
 
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/churn-analysis?style=for-the-badge\&logo=github)
-![License](https://img.shields.io/github/license/yourusername/churn-analysis?style=for-the-badge\&logo=opensourceinitiative)
-![Top Language](https://img.shields.io/github/languages/top/yourusername/churn-analysis?style=for-the-badge)
-![SQL Pipeline](https://img.shields.io/badge/SQL%20Pipeline-Included-success?style=for-the-badge\&logo=mysql)
-![Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
-
-
-
-
 ---
 
 # 📑 Table of Contents

@@ -4,6 +4,9 @@
 ![Repo Size](https://img.shields.io/github/repo-size/yourusername/churn-analysis)
 ![License](https://img.shields.io/github/license/yourusername/churn-analysis)
 ![Top Language](https://img.shields.io/github/languages/top/yourusername/churn-analysis)
+![SQL Pipeline](https://img.shields.io/badge/SQL%20Pipeline-Included-success?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi)
+
 
 ---
 
@@ -191,3 +194,20 @@ Analyzing Customer Churn and Retention Patterns in a UK Based Multinational Reta
 │
 ├── README.md
 └── LICENSE
+
+```
+
+---
+
+## 🏁 Conclusion
+This project demonstrates how Excel-based customer segmentation and data analytics can significantly improve production planning and supply chain efficiency. By adopting a customer-centric, data-driven approach, organizations can reduce operational costs, improve demand alignment, and enhance overall supply chain performance.
+
+---
+
+## 👩‍💻 Author
+**Charles Walton**  
+Data Analyst Consultant | SQL | Power BI | Python | ETL 
+📧 cwalton1335@gmail.com
+🔗 https://linkedin.com/in/cwalton1335
+💻 https://github.com/cwalton133
+

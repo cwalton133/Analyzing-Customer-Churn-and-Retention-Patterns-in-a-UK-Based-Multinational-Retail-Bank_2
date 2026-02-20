@@ -51,7 +51,7 @@ This project analyzes customer demographics, engagement behavior, financial attr
 
 ### Raw Data Sources
 - 📄 [AccountInfo.xlsx](data/raw/AccountInfo.xlsx)
-- 📄 [CustomerInfo.xlsx](data/raw/CustomerInfo.xlsx)
+- 📄 [CustomerInfo.xlsx](data/raw/CustomerInfo.csv)
 
 ### Processed Dataset
 - 📊 [solution.xlsx](data/processed/solution.xlsx)

@@ -50,11 +50,11 @@ This project analyzes customer demographics, engagement behavior, financial attr
 # 📂 Dataset Description
 
 ### Raw Data Sources
-- 📄 [AccountInfo.xlsx](raw/AccountInfo.xlsx)
-- 📄 [CustomerInfo.xlsx](raw/CustomerInfo.xlsx)
+- 📄 [AccountInfo.xlsx](data/raw/AccountInfo.xlsx)
+- 📄 [CustomerInfo.xlsx](data/raw/CustomerInfo.xlsx)
 
 ### Processed Dataset
-- 📊 [solution.xlsx](processed/solution.xlsx)
+- 📊 [solution.xlsx](data/processed/solution.xlsx)
 
 ---
 
@@ -63,7 +63,7 @@ This project analyzes customer demographics, engagement behavior, financial attr
 To ensure full reproducibility and transparency, the entire data preparation workflow was implemented using SQL.
 
 📜 **Full SQL Script:**  
-👉 [View SQL Procedures](raw/processed/Veritasdb.sql)
+👉 [View SQL Procedures](data/processed/Veritasdb.sql)
 
 This script includes:
 
@@ -132,7 +132,7 @@ Result: **Analytics-ready dataset optimized for BI modeling**
 ---
 
 # 🧾 Presentation Slides
-📥 [Download Presentation](slides/recommendation.pptx)
+📥 [Download Presentation](slides/Customer_Churn_Presentation.pptx)
 
 ---
 

@@ -1,4 +1,3 @@
-# Analyzing-Customer-Churn-and-Retention-Patterns-in-a-UK-Based-Multinational-Retail-Bank_2
 # 📊 Analyzing Customer Churn and Retention Patterns in a UK Based Multinational Retail Bank  
 ### Data-Driven Customer Segmentation & Churn Intelligence for Strategic Decision-Making
 
